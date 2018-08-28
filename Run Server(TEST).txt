@@ -1,0 +1,3 @@
+cmd
+cd C:\Users\alecm\Desktop\SQLite
+npm start
