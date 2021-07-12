@@ -1,0 +1,36 @@
+{
+  "stocks": [
+    {
+      "id": "1",
+      "name": "Test",
+      "value": "15"
+    },
+    {
+      "id": "2",
+      "name": "Test2",
+      "value": "5"
+    },
+    {
+      "id": "3",
+      "name": "Test3",
+      "value": "52"
+    },
+    {
+      "id": "4",
+      "name": "Test4",
+      "value": "20"
+    },
+    {
+      "id": "5",
+      "name": "SUP D00D",
+      "value": "33"
+    }
+  ],
+  "more": [
+    {
+      "id": "1",
+      "name": "More test"
+    }
+  ]
+
+}

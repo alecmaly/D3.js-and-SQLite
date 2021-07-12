@@ -1,0 +1,38 @@
+body {
+  background-color: lightgrey;
+}
+
+table, th, td {
+  border: 1px solid black;
+  text-align: center;
+  margin-left: 300px;
+}
+
+
+
+
+.arc text {
+  font: 10px sans-serif;
+  text-anchor: middle;
+}
+
+.arc path {
+  stroke: #fff;
+}
+
+
+
+
+
+
+.bar {
+  fill: steelblue;
+}
+
+.bar:hover {
+  fill: darkblue;
+}
+
+.axis--x path {
+  display: none;
+}
